@@ -1,0 +1,16 @@
+Noodles,8
+Bubble tea,10
+Hot dog,7
+Pizza,6
+Ovaltine,8
+Coke,6
+Wasabi,4
+Duck,9
+Corn pops,7
+Apple pie,7
+Kiwi,9
+Spinach,6
+Guava juice,10
+Tofu,4
+Dumplings,6
+Chicken,7
